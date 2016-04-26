@@ -4,7 +4,6 @@ libtizen_audio_la_SOURCES = tizen-audio.c \
 		tizen-audio-device.c \
 		tizen-audio-volume.c \
 		tizen-audio-ucm.c \
-		tizen-audio-comm.c \
 		tizen-audio-util.c
 libtizen_audio_la_LDFLAGS = $(AM_LDFLAGS) -disable-static -avoid-version
 if USE_TINYALSA
