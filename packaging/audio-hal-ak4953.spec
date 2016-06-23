@@ -1,6 +1,6 @@
 Name:       audio-hal-ak4953
 Summary:    TIZEN Audio HAL for AK4953
-Version:    0.2.21
+Version:    0.2.22
 Release:    0
 Group:      System/Libraries
 License:    Apache-2.0
